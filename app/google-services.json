@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867631917446",
+    "project_id": "instafire-29a27",
+    "storage_bucket": "instafire-29a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867631917446:android:33549ae1efe371de38e407",
+        "android_client_info": {
+          "package_name": "edu.neu.madcourse.instafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867631917446-ovhvlu6ti6sfmh82vnrbcd44sca3kria.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPehGekvdUDgE-h8-8Bp1vf5IuyAykD1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867631917446-ovhvlu6ti6sfmh82vnrbcd44sca3kria.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
